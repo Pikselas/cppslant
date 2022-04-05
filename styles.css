@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Duplex;
+    src: url(./fonts/Duplex.woff);
+}
+
+h1
+{
+    font-family: "Duplex";
+}
